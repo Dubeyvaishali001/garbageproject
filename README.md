@@ -309,10 +309,4 @@ The model achieved a validation accuracy of **89.5%**. Below are the detailed pr
   <img width="164" alt="image" src="https://github.com/user-attachments/assets/6f7bd08c-b139-412c-b1e2-890eb618e075" />
 
 
----
 
-## References
-
-* IBM Deep Learning with PyTorch Course
-* Gyawali, D., Regmi, A., Shakya, A., Gautam, A., and Shrestha, S., 2020. Comparative analysis of multiple deep CNN models for waste classification. arXiv preprint arXiv:2004.02168.
-* Kaggle Garbage Classification Dataset
